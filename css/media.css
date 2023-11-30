@@ -1,0 +1,210 @@
+@media(max-width:991px){
+    .header_wrap {
+        width: 40%;
+    }
+    .banner_info h1 {
+        font-size: 34px;
+    }
+    .feature_info {
+        width: 31%;
+        margin-bottom: 20px;
+    }
+    .bitcoin_phone {
+        margin-top: 31%;
+    }
+    .contact_form {
+        text-align: center;
+    }
+    .contact_form form input {
+        width: 48%;
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+    .section_title p {
+        font-size: 18px;
+    }
+    
+    .footer_info {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .input i {
+        right: -11%;
+        bottom: 0%;
+    }
+    .footer_copy {
+        padding: 30px 0 30px 0;
+    }
+    .bottom_info ul {
+        flex-wrap: wrap;
+        margin-right: 20px;
+    }
+    .bottom_info li {
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:767px){
+    .header_wrap {
+        width: 100%;
+    }
+    .header_right {
+        margin-top: 10px;
+    }
+    .feature_info {
+        width: 46% !important;
+        margin-bottom: 20px;
+    }
+    .contact_form form input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact_form form textarea {
+        width: 100%;
+    }
+    .blog {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .blog_head{
+        justify-content: center !important;
+    }
+    .icon_list ul {
+        margin: 30px 0 30px 0;
+    }
+    .footer_info {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .footer_info span {
+        margin: auto;
+        margin-top: 30px;
+    }
+    .input i {
+        right: -5%;
+        bottom: 0%;
+    }
+    .footer_regards p {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .bottom_info ul {
+        display: inline-block;
+    }
+    .footer_copy {
+        text-align: center;
+    }
+    .bottom_info li {
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:575px){
+    .header_wrap {
+        width: 100%;
+    }
+    .banner_info h1 {
+        font-size: 26px;
+    }
+    .banner_info_box {
+        margin: 30px 5px;
+    }
+    .btn_contact {
+        padding: 10px 22px;
+    }
+    .btn_us {
+
+        margin-right: 0px;
+    }
+    .feature_info {
+        width: 90% !important;
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+    .service_section {
+        padding: 0px 0;
+    }
+    .bitcoin_title {
+        text-align: center;
+    }
+    .bitcoin_wrapper .bitcoin_title span, .form_section .section_title span {
+        margin: auto;
+    }
+    .button {
+        margin-bottom: 30px;
+    }
+    .section_logo img {
+        margin-top: 0px;
+    }
+    .support_section {
+        padding: 40px 0;
+    }
+    .contact_form form {
+        margin-top: 30px;
+    }
+    .contact_form form input {
+        width: 90%;
+        margin-right: 0px;
+        padding: 10px 10px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .contact_form form textarea {
+        width: 90%;
+        text-align: center;
+        margin: auto;
+    }
+    .blog{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .title_here p {
+        font-size: 15px;
+    }
+    .footer_info {
+        margin-top: 50px;
+        width: 100%;
+    }
+    .icon_list ul {
+        justify-content: center;
+    }
+    .footer_title {
+        text-align: center;
+    }
+    .footer_info span {
+        margin: auto;
+        margin-top: 20px;
+    }
+    .footer_icon {
+        width: 80%;
+    }
+    .footer_icon a {
+        margin-right: 0px;
+    }
+    .footer_icon {
+        margin: auto;
+        margin: 30px;
+    }
+    .footer_info ul li {
+
+        margin-bottom: 10px;
+    }
+    .input i {
+        right: -7%;
+        bottom: 0%;
+    }
+    footer {
+        padding: 50px 0;
+    }
+    .footer_regards p {
+        margin-bottom: 20px;
+    }
+    .bottom_info ul {
+        display: inline-block;
+    }
+    .bottom_info li {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .footer_bottom {
+        margin: auto;
+    }
+}
